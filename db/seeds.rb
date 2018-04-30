@@ -10,7 +10,7 @@ anderson = Director.create(first_name:"Wes", last_name:"Anderson")
 Movie.create(title:"Pulp Fiction", release_year:1994, director: tarantino)
 Movie.create(title:"Fight Club", release_year:1999, director: fincher)
 Movie.create(title:"Inception", release_year:2010, director: nolan)
-Movie.create(title:"The Grand Budapest Hotel", release_year:2013, director: kassovitz)
-Movie.create(title:"La Haine", release_year:1995, director: anderson)
+Movie.create(title:"The Grand Budapest Hotel", release_year:2013, director: anderson)
+Movie.create(title:"La Haine", release_year:1995, director: kassovitz)
 
 
